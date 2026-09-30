@@ -92,7 +92,7 @@
 
   <!-- Nome Principal com Tipografia Forte e Gradiente Dinâmico -->
   <text x="450" y="105" text-anchor="middle" fill="url(#textGrad)" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="40" font-weight="900" letter-spacing="3" filter="url(#glow)">
-    ESTÊVÃO BUENO
+    ESTEVÃO BUENO
   </text>
 
   <!-- Linha laser neon com pulso dinâmico -->

@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Animado Nativo em SVG (100% Estável, Sem Erros) -->
-  <img src="./header.svg" width="100%" alt="Estêvão Bueno Header" />
+  <img src="./header.svg" width="100%" alt="Estevão Bueno Header" />
 
   <br/><br/>
 
@@ -150,5 +150,5 @@
 ---
 
 <p align="center">
-  <sub>Estêvão Bueno &nbsp;•&nbsp; Construído com foco em código limpo, arquitetura escalável e aprendizado contínuo. 🌿</sub>
+  <sub>Estevão Bueno &nbsp;•&nbsp; Construído com foco em código limpo, arquitetura escalável e aprendizado contínuo. 🌿</sub>
 </p>

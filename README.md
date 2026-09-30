@@ -1,27 +1,30 @@
 <div align="center">
 
-  <h1>Estêvão Bueno</h1>
-  <p><b>Engenharia da Computação &nbsp;|&nbsp; Full-Stack Software Developer &nbsp;|&nbsp; Suporte de TI</b></p>
+  <!-- Banner Animado Nativo em SVG (Zero dependência externa, 100% estável) -->
+  <img src="./header.svg" width="100%" alt="Estêvão Bueno Header" />
 
-  <!-- Typing SVG estilo minimalista nas cores da Pochteca -->
+  <br/><br/>
+
+  <!-- Typing SVG animado estilo DenverCoder1 -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7BB23A&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Suporte+de+TI;Engenharia+da+Computa%C3%A7%C3%A3o+%7C+UNIVESP;An%C3%A1lise+e+Desenv.+de+Sistemas+%7C+SENAC;Python+%E2%80%A2+React+%E2%80%A2+Oracle+%E2%80%A2+Supabase;Pochteca+Coremal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=7BB23A&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer+%26+Suporte+TI;Engenharia+da+Computa%C3%A7%C3%A3o+%7C+UNIVESP;An%C3%A1lise+e+Desenv.+de+Sistemas+%7C+SENAC;Python+%E2%80%A2+React+%E2%80%A2+Oracle+%E2%80%A2+Supabase;Desenvolvedor+do+PowerHub+Pochteca" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Links em estilo flat-square moderno e sóbrio -->
+  <!-- Botões de Contato -->
   <p align="center">
     <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="mailto:estevaobuenosilva@gmail.com">
-      <img src="https://img.shields.io/badge/Email-estevaobuenosilva%40gmail.com-214d18?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-estevaobuenosilva%40gmail.com-214d18?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://github.com/Estevaobueno">
-      <img src="https://img.shields.io/badge/GitHub-Estevaobueno-1b380e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Estevaobueno-1b380e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
 
 </div>
@@ -30,20 +33,22 @@
 
 ### // Sobre Mim
 
-Profissional de Tecnologia com perfil híbrido, combinando competências em **Infraestrutura / Suporte de TI** e **Engenharia de Software Full-Stack**. Atualmente atuo na **Pochteca Coremal**, participando ativamente tanto da sustentação do parque tecnológico e apoio aos usuários, quanto da arquitetura e desenvolvimento de sistemas corporativos internos.
+Profissional de Tecnologia com perfil híbrido e foco em resultados práticos, unindo a visão de **Infraestrutura / Suporte de TI** à criação de soluções robustas em **Engenharia de Software Full-Stack**. 
 
-- **Formação:**
+Atualmente atuo na **Pochteca Coremal**, trabalhando tanto na sustentação de ambientes e apoio técnico aos usuários, quanto no desenvolvimento ativo e evolução do ecossistema corporativo interno.
+
+- **Formação Acadêmica:**
   - Cursando **Engenharia da Computação** — *UNIVESP (Universidade Virtual do Estado de São Paulo)*
   - Cursando **Análise e Desenvolvimento de Sistemas (ADS)** — *SENAC*
-- **Atuação:**
+- **Atuação Profissional:**
   - **Suporte de TI & Desenvolvimento Interno** — *Pochteca Coremal*
-  - Suporte N1/N2, gerenciamento de redes, acessos e sustentação técnica.
-  - Concepção e evolução de sistemas corporativos web de ponta a ponta.
-- **Competências Técnicas:**
-  - Backend moderno com **Python (FastAPI)**, autenticação corporativa (**Active Directory / LDAP / JWT**) e regras de negócio complexas.
-  - Frontend reativo com **React 18** e **Vite**, com foco em dashboards, controle de permissões (RBAC) e UX.
-  - Integração de dados em tempo real conectando ERP legado (**Oracle 11g/19c**) a bancos em nuvem (**PostgreSQL / Supabase**).
-  - Automação de processos via scripts e aplicação prática de IA (**Google Gemini API**, **Claude Code**).
+  - Suporte N1/N2, administração de redes corporativas, acessos e diagnósticos.
+  - Arquitetura e desenvolvimento de aplicações corporativas de ponta a ponta.
+- **Diferenciais Técnicos:**
+  - Criação de APIs assíncronas de alto desempenho em **Python (FastAPI)** com padrões REST e segurança JWT.
+  - Interfaces dinâmicas em **React 18** com componentes modulares, dashboards analíticos e controle granular de permissões (RBAC).
+  - Conexão e integração em tempo real de ERP legado (**Oracle 11g/19c via Thick Mode**) com infraestrutura na nuvem (**PostgreSQL / Supabase**).
+  - Automação de tarefas corporativas e desenvolvimento ágil utilizando ferramentas avançadas como **Claude Code** e **Google Gemini**.
 
 ---
 
@@ -58,20 +63,20 @@ Profissional de Tecnologia com perfil híbrido, combinando competências em **In
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>▸ Backend &amp; Banco de Dados</h4>
+      <h4>▸ Backend &amp; Dados</h4>
       <ul>
         <li><b>Linguagens:</b> Python, JavaScript (ES6+), SQL</li>
         <li><b>Frameworks:</b> FastAPI, Uvicorn, Pydantic</li>
         <li><b>Bancos de Dados:</b> Oracle 11g/19c (Thick Mode), PostgreSQL, Supabase</li>
-        <li><b>Segurança:</b> JWT, RBAC por perfil/rota, Active Directory / LDAP</li>
+        <li><b>Segurança:</b> JWT, RBAC granular, Active Directory / LDAP</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>▸ Frontend, Infra &amp; Suporte</h4>
       <ul>
-        <li><b>Frontend:</b> React 18, Vite, CSS Moderno, Framer Motion, Axios</li>
-        <li><b>Suporte &amp; Infra:</b> Atendimento N1/N2, Redes TCP/IP, Windows Server</li>
-        <li><b>Ferramentas &amp; IA:</b> Claude Code, Google Gemini API, VS Code, Git</li>
+        <li><b>Frontend:</b> React 18, Vite, CSS3 Moderno, Framer Motion, Axios</li>
+        <li><b>Suporte &amp; Infra:</b> Suporte N1/N2, Redes TCP/IP, Windows Server</li>
+        <li><b>Ferramentas:</b> Claude Code, Google Gemini, VS Code, Git, GitHub</li>
         <li><b>Automação:</b> Scripts em PowerShell, Batch e Python</li>
       </ul>
     </td>
@@ -80,28 +85,28 @@ Profissional de Tecnologia com perfil híbrido, combinando competências em **In
 
 ---
 
-### // Experiência & Projetos
+### // Projeto em Destaque
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>PowerHub — Pochteca Coremal</h3>
-      <p>Ecossistema corporativo completo de inteligência comercial, precificação estratégica e CRM.</p>
+    <td>
+      <h3>🏢 PowerHub — Ecossistema Corporativo (Pochteca Coremal)</h3>
+      <p>
+        Plataforma corporativa central de inteligência comercial, precificação estratégica, CRM e governança de acessos.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory" />
+      </p>
       <ul>
-        <li>Backend monólito com mais de 170 rotas em <b>FastAPI</b>.</li>
-        <li>Frontend dinâmico em <b>React 18</b> com navegação por abas e RBAC granular.</li>
-        <li>Integração direta e em tempo real com <b>Oracle ERP</b> e <b>Supabase</b>.</li>
-        <li>Exportação automatizada de cotações e relatórios em PDF e planilhas XLSX.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Copilot de Visitas (IA Aplicada)</h3>
-      <p>Módulo de inteligência para equipe comercial integrado ao ecossistema corporativo.</p>
-      <ul>
-        <li>Integração com a API do <b>Google Gemini (1.5 Flash)</b>.</li>
-        <li>Processamento de transcrições de áudio gravadas durante visitas técnicas.</li>
-        <li>Geração automatizada de atas executivas estruturadas (Metodologia PIX).</li>
-        <li>Identificação de oportunidades, demandas de produtos e próximos passos.</li>
+        <li><b>Arquitetura de Alta Performance:</b> Backend assíncrono com mais de <b>175 endpoints</b> estruturados em FastAPI.</li>
+        <li><b>Integração ERP em Tempo Real:</b> Consulta e sincronização contínua com banco <b>Oracle 11g (ERP Coremal)</b> em Thick Mode para clientes, limites de crédito, prazos e produtos.</li>
+        <li><b>Camada de Dados na Nuvem:</b> Gerenciamento simultâneo de bases de produção e homologação via <b>Supabase (PostgreSQL)</b>.</li>
+        <li><b>Interface Reativa & Governança:</b> Frontend em <b>React 18 + Vite</b> com controle rigoroso de acessos (RBAC por perfil e subtela).</li>
+        <li><b>Automação Comercial:</b> Emissão instantânea de relatórios e propostas em PDF (fpdf2 / jsPDF) e planilhas XLSX (SheetJS).</li>
       </ul>
     </td>
   </tr>
@@ -109,14 +114,14 @@ Profissional de Tecnologia com perfil híbrido, combinando competências em **In
 
 ---
 
-### // Estatísticas de Contribuição
+### // Estatísticas & Sequência de Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estevaobueno&theme=dark&stroke=4a7c1f&ring=7bb23a&fire=7bb23a&currStreakNum=7bb23a&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&border_radius=8" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estevaobueno&theme=dark&stroke=4a7c1f&ring=7bb23a&fire=7bb23a&currStreakNum=7bb23a&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="Streak Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Estêvão Bueno &nbsp;•&nbsp; Código limpo, sistemas resilientes e aprendizado contínuo.</sub>
+  <sub>Estêvão Bueno &nbsp;•&nbsp; Construído com foco em código limpo, arquitetura escalável e aprendizado contínuo.</sub>
 </p>

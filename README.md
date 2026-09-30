@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Banner Animado Nativo em SVG (Zero dependência externa, 100% estável) -->
+  <!-- Banner Animado Nativo em SVG (100% Estável, Sem Erros) -->
   <img src="./header.svg" width="100%" alt="Estêvão Bueno Header" />
 
   <br/><br/>
 
-  <!-- Typing SVG animado estilo DenverCoder1 -->
+  <!-- Typing SVG Animado estilo DenverCoder1 -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=7BB23A&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer+%26+Suporte+TI;Engenharia+da+Computa%C3%A7%C3%A3o+%7C+UNIVESP;An%C3%A1lise+e+Desenv.+de+Sistemas+%7C+SENAC;Python+%E2%80%A2+React+%E2%80%A2+Oracle+%E2%80%A2+Supabase;Desenvolvedor+do+PowerHub+Pochteca" alt="Typing SVG" />
   </a>
@@ -31,28 +31,52 @@
 
 ---
 
-### // Sobre Mim
+### <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="28" align="center" /> &nbsp;Sobre Mim
 
-Profissional de Tecnologia com perfil híbrido e foco em resultados práticos, unindo a visão de **Infraestrutura / Suporte de TI** à criação de soluções robustas em **Engenharia de Software Full-Stack**. 
-
-Atualmente atuo na **Pochteca Coremal**, trabalhando tanto na sustentação de ambientes e apoio técnico aos usuários, quanto no desenvolvimento ativo e evolução do ecossistema corporativo interno.
-
-- **Formação Acadêmica:**
-  - Cursando **Engenharia da Computação** — *UNIVESP (Universidade Virtual do Estado de São Paulo)*
-  - Cursando **Análise e Desenvolvimento de Sistemas (ADS)** — *SENAC*
-- **Atuação Profissional:**
-  - **Suporte de TI & Desenvolvimento Interno** — *Pochteca Coremal*
-  - Suporte N1/N2, administração de redes corporativas, acessos e diagnósticos.
-  - Arquitetura e desenvolvimento de aplicações corporativas de ponta a ponta.
-- **Diferenciais Técnicos:**
-  - Criação de APIs assíncronas de alto desempenho em **Python (FastAPI)** com padrões REST e segurança JWT.
-  - Interfaces dinâmicas em **React 18** com componentes modulares, dashboards analíticos e controle granular de permissões (RBAC).
-  - Conexão e integração em tempo real de ERP legado (**Oracle 11g/19c via Thick Mode**) com infraestrutura na nuvem (**PostgreSQL / Supabase**).
-  - Automação de tarefas corporativas e desenvolvimento ágil utilizando ferramentas avançadas como **Claude Code** e **Google Gemini**.
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Profissional de Tecnologia com perfil híbrido e foco em soluções de alto impacto, combinando competências em <b>Infraestrutura / Suporte de TI</b> à concepção e desenvolvimento de ecossistemas em <b>Engenharia de Software Full-Stack</b>.
+      </p>
+      <p>
+        Atualmente integro a equipe de TI da <b>Pochteca Coremal</b>, atuando na sustentação de ambientes corporativos, apoio a usuários e no desenvolvimento de aplicações e integrações internas de missão crítica.
+      </p>
+      <ul>
+        <li>
+          <b>Formação Acadêmica:</b>
+          <ul>
+            <li>Cursando <b>Engenharia da Computação</b> — <i>UNIVESP</i></li>
+            <li>Cursando <b>Análise e Desenvolvimento de Sistemas (ADS)</b> — <i>SENAC</i></li>
+          </ul>
+        </li>
+        <li>
+          <b>Atuação Profissional:</b>
+          <ul>
+            <li><b>Suporte de TI &amp; Desenvolvimento Interno</b> na <i>Pochteca Coremal</i></li>
+            <li>Suporte técnico N1/N2, administração de redes corporativas e gestão de acessos.</li>
+            <li>Desenvolvimento e modernização do ecossistema corporativo interno.</li>
+          </ul>
+        </li>
+        <li>
+          <b>Foco Técnico:</b>
+          <ul>
+            <li>Desenvolvimento backend com <b>Python (FastAPI)</b> e arquitetura REST.</li>
+            <li>Interfaces reativas em <b>React 18 + Vite</b> com governança RBAC.</li>
+            <li>Integração direta entre <b>Oracle ERP (Thick Mode)</b> e <b>Supabase (PostgreSQL)</b>.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### // Tecnologias & Ferramentas
+### <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="28" align="center" /> &nbsp;Tecnologias &amp; Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -63,21 +87,21 @@ Atualmente atuo na **Pochteca Coremal**, trabalhando tanto na sustentação de a
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>▸ Backend &amp; Dados</h4>
+      <h4>▸ Backend &amp; Banco de Dados</h4>
       <ul>
         <li><b>Linguagens:</b> Python, JavaScript (ES6+), SQL</li>
         <li><b>Frameworks:</b> FastAPI, Uvicorn, Pydantic</li>
         <li><b>Bancos de Dados:</b> Oracle 11g/19c (Thick Mode), PostgreSQL, Supabase</li>
-        <li><b>Segurança:</b> JWT, RBAC granular, Active Directory / LDAP</li>
+        <li><b>Segurança:</b> JWT, RBAC granular por perfil/rota, Active Directory / LDAP</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>▸ Frontend, Infra &amp; Suporte</h4>
       <ul>
         <li><b>Frontend:</b> React 18, Vite, CSS3 Moderno, Framer Motion, Axios</li>
-        <li><b>Suporte &amp; Infra:</b> Suporte N1/N2, Redes TCP/IP, Windows Server</li>
-        <li><b>Ferramentas:</b> Claude Code, Google Gemini, VS Code, Git, GitHub</li>
-        <li><b>Automação:</b> Scripts em PowerShell, Batch e Python</li>
+        <li><b>Suporte &amp; Infra:</b> Atendimento N1/N2, Redes TCP/IP, Windows Server</li>
+        <li><b>Ferramentas &amp; IA:</b> Claude Code, Google Gemini, VS Code, Git, GitHub</li>
+        <li><b>Automação:</b> Scripts em PowerShell, Batch e automações Python</li>
       </ul>
     </td>
   </tr>
@@ -85,12 +109,12 @@ Atualmente atuo na **Pochteca Coremal**, trabalhando tanto na sustentação de a
 
 ---
 
-### // Projeto em Destaque
+### <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="28" align="center" /> &nbsp;Projeto em Destaque — PowerHub
 
 <table width="100%">
   <tr>
-    <td>
-      <h3>🏢 PowerHub — Ecossistema Corporativo (Pochteca Coremal)</h3>
+    <td width="65%" valign="top">
+      <h3>PowerHub — Ecossistema Corporativo (Pochteca Coremal)</h3>
       <p>
         Plataforma corporativa central de inteligência comercial, precificação estratégica, CRM e governança de acessos.
       </p>
@@ -105,16 +129,19 @@ Atualmente atuo na **Pochteca Coremal**, trabalhando tanto na sustentação de a
         <li><b>Arquitetura de Alta Performance:</b> Backend assíncrono com mais de <b>175 endpoints</b> estruturados em FastAPI.</li>
         <li><b>Integração ERP em Tempo Real:</b> Consulta e sincronização contínua com banco <b>Oracle 11g (ERP Coremal)</b> em Thick Mode para clientes, limites de crédito, prazos e produtos.</li>
         <li><b>Camada de Dados na Nuvem:</b> Gerenciamento simultâneo de bases de produção e homologação via <b>Supabase (PostgreSQL)</b>.</li>
-        <li><b>Interface Reativa & Governança:</b> Frontend em <b>React 18 + Vite</b> com controle rigoroso de acessos (RBAC por perfil e subtela).</li>
+        <li><b>Interface Reativa &amp; Governança:</b> Frontend em <b>React 18 + Vite</b> com controle rigoroso de acessos (RBAC por perfil e subtela).</li>
         <li><b>Automação Comercial:</b> Emissão instantânea de relatórios e propostas em PDF (fpdf2 / jsPDF) e planilhas XLSX (SheetJS).</li>
       </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="PowerHub System Animation" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### // Estatísticas & Sequência de Atividade
+### <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="28" align="center" /> &nbsp;Estatísticas &amp; Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estevaobueno&theme=dark&stroke=4a7c1f&ring=7bb23a&fire=7bb23a&currStreakNum=7bb23a&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="Streak Stats" />
@@ -123,5 +150,5 @@ Atualmente atuo na **Pochteca Coremal**, trabalhando tanto na sustentação de a
 ---
 
 <p align="center">
-  <sub>Estêvão Bueno &nbsp;•&nbsp; Construído com foco em código limpo, arquitetura escalável e aprendizado contínuo.</sub>
+  <sub>Estêvão Bueno &nbsp;•&nbsp; Construído com foco em código limpo, arquitetura escalável e aprendizado contínuo. 🌿</sub>
 </p>

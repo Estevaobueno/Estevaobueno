@@ -22,11 +22,6 @@
     &nbsp;
     <a href="https://github.com/Estevaobueno">
       <img src="https://img.shields.io/badge/GitHub-Estevaobueno-1b380e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="#">
-      <img src="https://img.shields.io/badge/Pochteca_Coremal-TI_%26_Dev-4a7c1f?style=flat-square" alt="Pochteca Coremal" />
-    </a>
   </p>
 
 </div>
